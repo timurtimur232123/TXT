@@ -1,0 +1,10 @@
+testTheory
+testArtifacts Bug report, CheckList, TestCase, TestPlan, TR
+testDesign PeirWiseTesting, StateTable, BoundaryValue, DT, DAT, UCT
+git Linux Terminal, gitCommands
+postman CRUD
+CharlesProxy sniffTraffic
+DevTools FullGuide
+English EngleshLanguageMeetings
+Python BasiKnowladgeLvl, AutomationTesting
+Practice Practice on other real projects
