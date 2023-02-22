@@ -1,0 +1,14 @@
+Number - 26
+Title  -Exchange rates in the large and medium/small widgets installed on the Homescreen are different
+Preconditions:
+1 Launch App
+2 Add Small widget to Homescreen
+3 Add Medium widget to Homescreen
+4 Add Large widget to Homescreen
+STR: Compare the exchange rate data on the Home screen widgets
+Expected Result: Cryptocurrency rates are the same in all widgets installed on the Home screen
+Actual Result: Inconsistency of cryptocurrency  rates in the large and medium/small widgets installed on the home screen
+Link: https://drive.google.com/file/d/1hKW2IW2pPilsZufZ17gUPAYO_etO-aOV/view
+Severity: Major
+Priority: Medium
+Assign to Developer Vasil Sergeech
